@@ -1,0 +1,39 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 23 oct 2024, 22:05:48
+    Author     : Sofii
+*/
+
+/* Selector de ID */
+#tituloPrincipal {
+    color: #ff93d6;
+    font-size: 50px
+    
+}
+
+.parrafonegrita {
+    font-weight: bold;
+    color: darkgreen;
+    
+}
+
+.parrafoEspecial {
+    font-family: Comic Sans MS;
+}
+
+.prioridad {
+    color:red;
+}
+.prioridad1 {
+    color:red;
+}
+.prioridad2 {
+    color:purple;
+}
+
+p{
+    word-spacing: 5px;
+}
