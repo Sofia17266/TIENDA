@@ -37,3 +37,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 p{
     word-spacing: 5px;
 }
+
+.ejemploCajas {
+    border: 2px solid black;
+}
